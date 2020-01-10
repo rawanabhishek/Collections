@@ -1,0 +1,12 @@
+package com.bridgelabz.collection;
+
+import java.util.List;
+
+public class ArrayList {
+
+	public static void main(String[] args) {
+		List al = (List) new ArrayList();
+
+	}
+
+}
